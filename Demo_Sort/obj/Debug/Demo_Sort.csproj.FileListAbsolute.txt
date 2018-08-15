@@ -1,0 +1,10 @@
+c:\users\le ngoc thanh\documents\visual studio 2013\Projects\Demo_Sort\Demo_Sort\bin\Debug\Demo_Sort.exe.config
+c:\users\le ngoc thanh\documents\visual studio 2013\Projects\Demo_Sort\Demo_Sort\bin\Debug\Demo_Sort.exe
+c:\users\le ngoc thanh\documents\visual studio 2013\Projects\Demo_Sort\Demo_Sort\bin\Debug\Demo_Sort.pdb
+c:\users\le ngoc thanh\documents\visual studio 2013\Projects\Demo_Sort\Demo_Sort\obj\Debug\Demo_Sort.csprojResolveAssemblyReference.cache
+c:\users\le ngoc thanh\documents\visual studio 2013\Projects\Demo_Sort\Demo_Sort\obj\Debug\Demo_Sort.frm_main.resources
+c:\users\le ngoc thanh\documents\visual studio 2013\Projects\Demo_Sort\Demo_Sort\obj\Debug\Demo_Sort.Properties.Resources.resources
+c:\users\le ngoc thanh\documents\visual studio 2013\Projects\Demo_Sort\Demo_Sort\obj\Debug\Demo_Sort.csproj.GenerateResource.Cache
+c:\users\le ngoc thanh\documents\visual studio 2013\Projects\Demo_Sort\Demo_Sort\obj\Debug\Demo_Sort.exe
+c:\users\le ngoc thanh\documents\visual studio 2013\Projects\Demo_Sort\Demo_Sort\obj\Debug\Demo_Sort.pdb
+C:\Users\Le Ngoc Thanh\Documents\Visual Studio 2013\Projects\Demo_Sort\Demo_Sort\obj\Debug\Demo_Sort.frm_Thong_tin.resources
